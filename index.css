@@ -1,0 +1,21 @@
+body{
+    background-color :rgb(235, 233, 233)
+} 
+.box{
+    padding: 50px 0px;  
+}
+.smallbox{
+    background-color: white;
+    padding: 20px 0px;
+    margin:30px;
+    text-align: center;
+}
+i{
+    color: rgb(64, 64, 255); 
+}
+a{
+    border-bottom: 2px solid rgb(46, 161, 255);
+}
+.con{
+    margin: 25px 10px ;
+}
